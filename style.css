@@ -1,10 +1,10 @@
-@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;600;700;800&display=swap");
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Raleway", sans-serif;
+    font-family: "Ubuntu", sans-serif;
   }
 /* ----------Color----------- */
 :root {
@@ -44,7 +44,6 @@
     font-size: 18px;
   }
   .form-bg button {
-    box-shadow: var(--shadow-upper) !important;
     transition: all 0.4s ease-in-out;
   }
   .form-bg button:hover {
